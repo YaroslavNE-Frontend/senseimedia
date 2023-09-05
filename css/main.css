@@ -1045,7 +1045,7 @@ img {
 }
 
 body {
-  background: #F7F6FF;
+  background: #f7f6ff;
   font-family: "Manrope", sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -1071,7 +1071,7 @@ body {
 
 .btn-gradient-fiolet {
   padding: 14px 33px;
-  background: var(--3, linear-gradient(122deg, #F32C6D 29.57%, #CB1D95 85.47%));
+  background: var(--3, linear-gradient(122deg, #f32c6d 29.57%, #cb1d95 85.47%));
 }
 .btn-gradient-fiolet:hover {
   background: var(--3, linear-gradient(122deg, #c41e55 29.57%, #b31882 85.47%));
@@ -1079,7 +1079,7 @@ body {
 
 .btn-color-blue {
   border-radius: 250px;
-  background: #77B2D3;
+  background: #77b2d3;
   padding: 14px 30px;
 }
 
@@ -1098,7 +1098,7 @@ body {
   border-radius: 9px;
   align-items: center;
   transition: all 0.3s;
-  color: #FFF;
+  color: #fff;
   font-family: Manrope;
 }
 
